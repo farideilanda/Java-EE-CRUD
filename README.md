@@ -1,5 +1,5 @@
-# Java EE CRUD project
-### MVC designed solution for standard CRUD operations events
+# Java EE CRUD WEB project
+### MVC designed solution of standard CRUD operations events including a Product entity
 ### Auth management with a <a href="https://github.com/mysql">Oracle MySQL™ Database</a> integration
-### Powered by
-### Build with 
+### Powered by <a href="https://www.wampserver.com/">WampServer</a>
+### Build on <a href="https://eclipseide.org/">Eclipse IDE</a>
