@@ -1,1 +1,1 @@
-# tp-jee-crud
+# Java EE CRUD project
